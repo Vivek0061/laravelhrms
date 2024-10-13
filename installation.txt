@@ -1,0 +1,27 @@
+please follow the docs for installation
+
+
+
+
+--------------------
+--------------------
+upload software.zip folder into cpanel
+
+--------------------
+--------------------
+
+and database is hrms.sql
+
+
+--------------------
+--------------------
+
+after installation got to https://yourapplication.com/dashaboard for software backend intial login data user : admin , pass : 123
+and front and will be in root url of domain
+
+
+--------------------
+--------------------
+Don't forget to put APP_URL=https://yourdomain.com on .env file 
+--------------------
+--------------------
